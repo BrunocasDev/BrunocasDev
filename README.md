@@ -1,5 +1,7 @@
 <div align="center">
 
+**English** · [Português](README.pt.md)
+
 # Bruno Cristo
 
 **Full Stack Web Developer** · Madeira, Portugal
@@ -86,8 +88,22 @@ More, with the problem each one solved, at **[nolva.pt](https://www.nolva.pt)**.
 
 <div align="center">
 
-<img height="165em" alt="Bruno Cristo's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=BrunocasDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8" />
-<img height="165em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunocasDev&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8" />
+<!--
+  The two github-readme-stats cards that used to sit here returned HTTP 503:
+  its public instance is shared by thousands of profiles and runs out of
+  GitHub API quota, which is what "Error Fetching Resource" means.
+
+  To bring them back, deploy your own instance — it is the fix the project
+  itself recommends:
+    1. Fork github.com/anuraghazra/github-readme-stats
+    2. Deploy it to Vercel and set PAT_1 to a GitHub token with public repo
+       read access
+    3. Swap the host below for your own deployment
+
+  streak-stats.demolab.com is the maintainer's own instance and is answering
+  with real data, so it is used here in the meantime.
+-->
+<img alt="Bruno Cristo's contribution streak on GitHub" src="https://streak-stats.demolab.com/?user=BrunocasDev&hide_border=true&background=0B1220&stroke=1E293B&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
 
 </div>
 
