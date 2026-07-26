@@ -1,10 +1,23 @@
 <div align="center">
 
-**English** · [Português](README.pt.md)
+<!--
+  The banner is the site's own Open Graph card, served from nolva.pt and
+  generated per language. It carries the portrait, the headline and the live
+  figures, so it can never drift out of step with the site the way a
+  hand-exported image would.
+-->
+<a href="https://www.nolva.pt">
+  <img alt="Bruno Cristo — Full Stack Web Developer in Madeira, Portugal" src="https://www.nolva.pt/en/opengraph-image" width="840" />
+</a>
+
+<br />
+
+**:gb: English** &nbsp;·&nbsp; [:portugal: Português](README.pt.md)
 
 # Bruno Cristo
 
-**Full Stack Web Developer** · Madeira, Portugal
+<!-- The banner shows the name too, but a document needs a real H1: it is what
+     screen readers and GitHub's own search index navigate by. -->
 
 I build business websites, booking platforms and custom back-office systems —
 in Laravel and Next.js. Software that earns its keep, not just software that looks good.
