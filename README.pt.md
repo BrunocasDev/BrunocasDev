@@ -1,10 +1,23 @@
 <div align="center">
 
-[English](README.md) · **Português**
+<!--
+  O banner é o próprio cartão Open Graph do site, servido a partir de nolva.pt
+  e gerado por idioma. Traz o retrato, o título e os números atualizados, por
+  isso nunca fica dessincronizado do site — ao contrário de uma imagem
+  exportada à mão.
+-->
+<a href="https://www.nolva.pt">
+  <img alt="Bruno Cristo — Full Stack Web Developer na Madeira, Portugal" src="https://www.nolva.pt/pt/opengraph-image" width="840" />
+</a>
+
+<br />
+
+[:gb: English](README.md) &nbsp;·&nbsp; **:portugal: Português**
 
 # Bruno Cristo
 
-**Full Stack Web Developer** · Madeira, Portugal
+<!-- O banner também mostra o nome, mas o documento precisa de um H1 a sério:
+     é por ele que os leitores de ecrã e a pesquisa do GitHub se orientam. -->
 
 Construo websites institucionais, plataformas de reservas e backoffices à medida —
 em Laravel e Next.js. Software que se paga, não apenas software que fica bonito.
