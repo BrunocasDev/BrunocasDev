@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- First thing on the page: someone who cannot read this language should not
+     have to scroll past a banner to find the one they can. -->
+**:gb: English** &nbsp;·&nbsp; [:portugal: Português](README.pt.md)
+
 <!--
   The banner is the site's own Open Graph card, served from nolva.pt and
   generated per language. It carries the portrait, the headline and the live
@@ -9,10 +13,6 @@
 <a href="https://www.nolva.pt">
   <img alt="Bruno Cristo — Full Stack Web Developer in Madeira, Portugal" src="https://www.nolva.pt/en/opengraph-image" width="840" />
 </a>
-
-<br />
-
-**:gb: English** &nbsp;·&nbsp; [:portugal: Português](README.pt.md)
 
 # Bruno Cristo
 
